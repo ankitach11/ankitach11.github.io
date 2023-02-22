@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ankitach11/ankitach11.github.io.git/static/css/main.d1e02010.css",
+    "main.js": "/ankitach11/ankitach11.github.io.git/static/js/main.ee714c08.js",
+    "static/js/787.66a2902c.chunk.js": "/ankitach11/ankitach11.github.io.git/static/js/787.66a2902c.chunk.js",
+    "index.html": "/ankitach11/ankitach11.github.io.git/index.html",
+    "main.d1e02010.css.map": "/ankitach11/ankitach11.github.io.git/static/css/main.d1e02010.css.map",
+    "main.ee714c08.js.map": "/ankitach11/ankitach11.github.io.git/static/js/main.ee714c08.js.map",
+    "787.66a2902c.chunk.js.map": "/ankitach11/ankitach11.github.io.git/static/js/787.66a2902c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e02010.css",
+    "static/js/main.ee714c08.js"
+  ]
+}
